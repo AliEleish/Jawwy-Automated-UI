@@ -1,0 +1,7 @@
+<suite name="Subscription packages test suite" verbose="2">
+    <test name="Validate subscription packages Tests">
+        <classes>
+            <class name="JawwyWebsiteTests.SubscriptionPackagesTests" />
+        </classes>
+    </test>
+</suite>
