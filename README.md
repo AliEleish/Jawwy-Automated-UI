@@ -39,5 +39,5 @@
 * If you want to save html report on your project directory, run the below allure command **allure generate**
 
   Further reading on how to use Allure report: **https://www.seleniumeasy.com/testng-tutorials/allure-example**
-  Further ready on how to solve **'mvn' is not recognized as an internal or external command, operable program or batch file.**
+  Further reading on how to solve **'mvn' is not recognized as an internal or external command, operable program or batch file.**
    https://stackoverflow.com/questions/17432809/mvn-is-not-recognized-as-an-internal-or-external-command-operable-program-or
