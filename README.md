@@ -41,3 +41,9 @@
   Further reading on how to use Allure report: **https://www.seleniumeasy.com/testng-tutorials/allure-example**
   Further reading on how to solve **'mvn' is not recognized as an internal or external command, operable program or batch file.**
    https://stackoverflow.com/questions/17432809/mvn-is-not-recognized-as-an-internal-or-external-command-operable-program-or
+
+
+
+
+  ## Twitter Test Cases Design Document 
+[Twitter - App - Test Plan.xlsx](https://github.com/AliEleish/Jawwy-Automated-UI/files/12875490/Twitter.-.App.-.Test.Plan.xlsx)
